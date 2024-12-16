@@ -54,10 +54,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
           [
             InlineKeyboardButton(
-                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/Dns_Official_Channel"
+                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/FEELING_SMILEY"
             ),
             InlineKeyboardButton(
-                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/DNS_NETWORK"
+                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/FRIENSHIP_CLUB_GROUP"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close")],
@@ -69,10 +69,10 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
           [
             InlineKeyboardButton(
-                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/Dns_Official_Channel"
+                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/FEELING_SMILEY"
             ),
             InlineKeyboardButton(
-                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/DNS_NETWORK"
+                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/FRIENSHIP_CLUB_GROUP"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close")],
@@ -94,10 +94,10 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
           [
             InlineKeyboardButton(
-                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/Dns_Official_Channel"
+                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/FEELING_SMILEY"
             ),
             InlineKeyboardButton(
-                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/DNS_NETWORK"
+                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/FRIENSHIP_CLUB_GROUP"
           ),
         ],
         [
@@ -111,10 +111,10 @@ def telegram_markup(_, chat_id):
     buttons = [
           [
             InlineKeyboardButton(
-                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/Dns_Official_Channel"
+                text="✰ ᴜᴘᴅᴧᴛᴇ ✰", url=f"https://t.me/FRIENSHIP_CLUB_GROUP"
             ),
             InlineKeyboardButton(
-                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/DNS_NETWORK"
+                text="✰ sᴜᴘᴘᴏꝛᴛ ✰", url=f"https://t.me/FEELING_SMILEY"
           ),
         ],
         [
